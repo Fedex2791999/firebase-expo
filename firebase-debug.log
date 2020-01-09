@@ -1,0 +1,21 @@
+[debug] [2020-01-09T03:29:15.439Z] ----------------------------------------------------------------------
+[debug] [2020-01-09T03:29:15.441Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\huybq\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-01-09T03:29:15.441Z] CLI Version:   7.11.0
+[debug] [2020-01-09T03:29:15.441Z] Platform:      win32
+[debug] [2020-01-09T03:29:15.441Z] Node Version:  v10.13.0
+[debug] [2020-01-09T03:29:15.442Z] Time:          Thu Jan 09 2020 10:29:15 GMT+0700 (Indochina Time)
+[debug] [2020-01-09T03:29:15.442Z] ----------------------------------------------------------------------
+[debug] [2020-01-09T03:29:15.442Z] 
+[debug] [2020-01-09T03:29:15.459Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-01-09T03:29:15.460Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\huybq\Desktop\React_Native\firebase-expo
+
